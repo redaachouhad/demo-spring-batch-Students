@@ -1,4 +1,4 @@
-# Spring Batch Demo
+# Demo Spring Batch: Uppercase Transformation of Student Names
 
 
 ![architecture spring batch](image/SpringBatchFramework.jpg)
