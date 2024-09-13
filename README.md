@@ -54,7 +54,9 @@ Spring Batch is a lightweight framework for batch processing. It provides tools 
 
 4. **Run the Application**: Start your Spring Boot application.
 
-5. **Trigger Batch Job**: Send a POST request to `http://localhost:8080/students` to start the batch job.
+5. **Trigger Batch Job**: Send a POST request to `http://localhost:8080/students` using Postman to start the batch job.
+
+![POST request with postman](image/postman_image.png)
 
 ## Example CSV
 
