@@ -46,9 +46,9 @@ Spring Batch is a lightweight framework for batch processing. It provides tools 
 
 ## Setup and Run
 
-1. **Dependencies**: Ensure you have the necessary dependencies for Spring Batch and your database configured in your `pom.xml` or `build.gradle`.
+1. **Dependencies**: Ensure you have the necessary dependencies for Spring Batch and your database configured in your `pom.xml`.
 
-2. **Database Configuration**: Configure your database connection in `application.properties` or `application.yml`.
+2. **Database Configuration**: Configure your database connection in `application.properties`.
 
 3. **CSV File**: Place your CSV file (`students.csv`) in `src/main/resources`.
 
